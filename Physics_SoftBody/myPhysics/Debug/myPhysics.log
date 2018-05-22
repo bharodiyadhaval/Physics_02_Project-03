@@ -1,0 +1,5 @@
+﻿  myPhysics.cpp
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\myphysics\myphysics.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\myphysics\myphysics.cpp(109): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\myphysics\myphysics.cpp(274): warning C4018: '<': signed/unsigned mismatch
+  myPhysics.vcxproj -> E:\GDP\Semester 2\Physics2\Project3\Physics_2_Project_1\Physics_SoftBody\Debug\myPhysics.lib

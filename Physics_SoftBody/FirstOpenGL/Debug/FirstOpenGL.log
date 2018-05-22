@@ -1,0 +1,26 @@
+﻿  TheMain.cpp
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(370): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(376): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(644): warning C4018: '<': signed/unsigned mismatch
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(736): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(737): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(738): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(740): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(741): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(742): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(744): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(745): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(746): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(248): warning C4101: 'vpos_location': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(248): warning C4101: 'vcol_location': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(247): warning C4101: 'fragment_shader': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(247): warning C4101: 'vertex_shader': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(247): warning C4101: 'program': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(247): warning C4101: 'vertex_buffer': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(634): warning C4101: 'dl': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(634): warning C4101: 'vl': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(634): warning C4101: 'dr': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(634): warning C4101: 'vr': unreferenced local variable
+e:\gdp\semester 2\physics2\project3\physics_2_project_1\physics_softbody\firstopengl\themain.cpp(164): warning C4715: 'SceneDescriptor': not all control paths return a value
+  FirstOpenGL.vcxproj -> E:\GDP\Semester 2\Physics2\Project3\Physics_2_Project_1\Physics_SoftBody\Debug\FirstOpenGL.exe
